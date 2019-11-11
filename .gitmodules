@@ -1,0 +1,6 @@
+[submodule "messenger-server"]
+	path = messenger-server
+	url = https://gitlab.com/aleshkashell/messenger-server.git
+[submodule "messenger-client"]
+	path = messenger-client
+	url = https://gitlab.com/aleshkashell/messenger-client.git
